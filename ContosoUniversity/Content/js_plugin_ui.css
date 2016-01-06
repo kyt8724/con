@@ -1,0 +1,13 @@
+﻿#mapDiv {
+    padding:0;
+    margin:0;
+    height:100%;
+}
+
+#legendDiv {
+    background-color: #fff;
+    position: absolute !important;
+    z-index: 99;
+    top: 50px;
+    right: 20px;
+}
